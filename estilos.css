@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+header{
+    font-family: 'Radio Canada', sans-serif;
+    height: 100vh;
+    background-image: url(https://deposeguro.com/wp-content/uploads/2019/05/almacen-para-ferreteria-1170x740.jpg);
+    background-size: cover;
+}
+
+body{
+    font-family: 'Radio Canada', sans-serif;
+    height: 100vh;
+    background-color: #110DDF;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenedor{
+    width:90%;
+    max-width: 1200px;
+    margin:auto;
+    padding:60px 0;
+}
+
+.head{
+    padding:0;
+    height:100%;
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    color:white;
+}
